@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 aes = "0.7.5"
 scrypt = "0.8.0"
+sudo = "0.6.0"
